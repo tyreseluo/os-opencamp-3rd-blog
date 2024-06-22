@@ -17,6 +17,16 @@
     {
         "type": "file",
         "name": "arceos-vga-color",
-        "label": "✌️上手2 ArceOS VGA驱动/彩色显示"
+        "label": "✌️上手2 ArceOS VGA驱动/彩色显示（一）"
+    },
+    {
+        "type": "file",
+        "name": "arceos-vga-color-2",
+        "label": "✌️上手2 ArceOS VGA驱动/彩色显示（二）"
+    },
+    {
+        "type": "file",
+        "name": "future-plan",
+        "label": "后期目标"
     }
 ]
