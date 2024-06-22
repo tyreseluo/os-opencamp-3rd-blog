@@ -1,0 +1,36 @@
+[
+    {
+        "type": "file",
+        "name": "getting-started",
+        "label": "开始：一些链接和标注"
+    },
+    {
+        "type": "dir",
+        "name": "experiment1",
+        "label": "第一阶段：BootLoader"
+    },
+    {
+        "type": "dir",
+        "name": "experiment2",
+        "label": "第二阶段：实验：键盘驱动",
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "experiment3",
+        "label": "第三阶段：文件系统分析",
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "experiment4",
+        "label": "第四阶段：httpserver代码分析",
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "appendice",
+        "label": "附录",
+        "collapsed": false
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "file",
+        "name": "address-space",
+        "label": "地址空间"
+    },
+    {
+        "type": "file",
+        "name": "startup-process",
+        "label": "启动流程"
+    },
+    {
+        "type": "file",
+        "name": "grub-arceos",
+        "label": "👋上手1 使用grub启动ArceOS"
+    },
+    {
+        "type": "file",
+        "name": "arceos-vga-color",
+        "label": "✌️上手2 ArceOS VGA驱动/彩色显示"
+    }
+]

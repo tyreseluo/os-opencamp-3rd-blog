@@ -1,0 +1,13 @@
+# 上手2 ArceOS VGA驱动/彩色显示
+
+基于项目 https://github.com/wfly1998/arceos/tree/feature/vga
+
+先运行查看当前已经实现的色彩显示功能，然后再进行修改。
+
+```bash
+git checkout -b feature/vga origin/feature/vga # 切换分支
+
+make A=apps/helloworld ARCH=x86_64 LOG=trace GRAPHIC=on run # 运行
+
+```
+
