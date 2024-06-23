@@ -3,6 +3,7 @@ import { defineConfig } from 'rspress/config';
 import alignImage from 'rspress-plugin-align-image';
 
 export default defineConfig({
+  base: "/os-opencamp-3rd-blog",
   root: path.join(__dirname, 'docs'),
   title: '第三阶段笔记 - 2024 春夏季开源操作系统训练营',
   description: 'os-opencamp-3rd-blog',
