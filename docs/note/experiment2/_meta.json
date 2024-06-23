@@ -1,1 +1,12 @@
-["index"]
+[
+    {
+        "type": "file",
+        "name": "keyboard-drive",
+        "label": "键盘驱动相关文档和知识补充"
+    },
+    {
+        "type": "file",
+        "name": "ps2-keyboard",
+        "label": "PS/2键盘驱动知识补充"
+    }
+]
